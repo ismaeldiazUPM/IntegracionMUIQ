@@ -6,3 +6,4 @@ Y el modelo de transporte extendido en su formulación compacta. Sirve para comp
 * El ejercicio 3 es otro ejemplo de modelo extendido con dos versiones: la original y añadiendo una nueva corriente fría como pide el enunciado. 
 * El ejercicio 4 es un ejemplo de lo que ocurre si nos aparece un servicio auxiliar de temperaturas intermedias.
 * El ejercicio 5 incluye además el diseño de los cambiadores para mínimo área (mínimo coste). Es decir, se calculan el mínimo consumo de utilities, el mínimo número de intercambios y se optimiza la red resultante para mínimo coste de los cambiadores
+* El ejercicio 6 es similar al anterior pero más complejo, utilizando el modelo de superestructura para dos corrientes calientes y dos frías. 
